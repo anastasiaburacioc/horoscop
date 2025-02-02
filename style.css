@@ -1,0 +1,78 @@
+element.style {
+  --full-image-width: 1343px;
+}
+
+:root {
+  --full-image-left-offset: 0px;
+  --full-image-width: 0px;
+}
+
+:root {
+  --swiper-navigation-size: 44px;
+}
+
+:root {
+  --swiper-theme-color: #007aff;
+}
+
+<style>html {
+  outline: transparent;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html {
+  outline: transparent;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+<style>*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+html[Attributes Style] {
+  -webkit-locale: "en";
+}
+
+user agent stylesheet:root {
+  view-transition-name: root;
+}
+
+user agent stylesheet html {
+  display: block;
+}
+
+<style>*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+<style>*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
